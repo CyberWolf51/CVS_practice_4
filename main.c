@@ -10,5 +10,7 @@ int main(int argc, char * argv[])
 
 	prinf("Branch");
 
+	printf("Master of world");
+
 	return 0;
 }
