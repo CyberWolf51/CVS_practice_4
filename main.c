@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 
-main()
+int main(int argc, char * argv[])
 
 {
-	print("Hello world, \n");
+	printf("Hello world, \n");
+
+	return 0;
 }
